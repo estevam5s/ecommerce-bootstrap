@@ -1,0 +1,19 @@
+{
+  "name": "panda-commerce-bootstrap-main",
+  "version": "1.0.0",
+  "description": "E-Commerce com bootrap usando a tríade: html-css-js",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevam5s/e-commerce-bootrap.git"
+  },
+  "author": "Estevam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevam5s/e-commerce-bootrap/issues"
+  },
+  "homepage": "https://github.com/estevam5s/e-commerce-bootrap#readme"
+}
